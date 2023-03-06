@@ -1,0 +1,19 @@
+{{!--body--}}
+<div>
+    <h1>¡Hola, {{user.name}}! Que gusto verte</h1>
+    <hr>
+    <h2 id="socket">Socket.io</h2>
+    <hr>
+    {{#if isAdmin}}
+        {{#each fakeapi}}
+            <div>
+                <p>Nombre del producto 1: {{this.name}}</p>
+                <p>Precio: {{this.price}}</p>
+            </div>
+        {{/each}}
+    {{else}}
+        <h2>Usted no tiene el permiso necesario</h2>
+    {{/if}}
+</div>
+<script src="/socket.io/socket.io.js"></script>
+<script src="/virtual/js/index.js"></script>

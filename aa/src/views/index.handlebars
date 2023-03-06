@@ -1,0 +1,17 @@
+<div>
+    <h1>!HOlassss, {{user.name}}</h1>
+
+    {{#if isAdmin}}
+        {{#each fakeapi}}
+            <div>
+                <p>ola1</p>
+                <p>ola2</p>
+            </div>
+        {{/each}}
+    {{else}}
+        <h2>No hay permisos hmph</h2>
+    {{/if}}            
+</div>
+
+<script src="/socket.io/socket.io.js"></script> 
+<script src="/virtual/js/index.js"></script>

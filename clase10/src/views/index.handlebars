@@ -1,0 +1,15 @@
+{{!--body--}}
+<div>
+    <h1>¡Hola, {{user.name}}! Que gusto verte</h1>
+    {{#if isAdmin}}
+        {{#each fakeapi}}
+            <div>
+                <p>Nombre del producto: {{this.name}}</p>
+                <p>Precio: {{this.price}}</p>
+            </div>
+        {{/each}}
+    {{else}}
+        <h2>Usted no tiene el permiso necesario</h2>
+    {{/if}}
+</div>
+<script src="/virtual/js/index.js"></script>

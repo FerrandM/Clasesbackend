@@ -1,0 +1,1 @@
+console.log('soy index de public');

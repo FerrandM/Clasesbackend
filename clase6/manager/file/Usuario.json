@@ -1,0 +1,42 @@
+[
+	{
+		"nombre": "Federick 1",
+		"apellido": "osandon",
+		"edad": 26,
+		"curso": "Backend",
+		"contra": "123",
+		"id": 1,
+		"salt": "lpoqFnmMAq2bCJnU1jUuXiLU+7VX7+thTzBT2xpg9QYpLZhx7TXiU4wLPgxQ9v+Kud6p0J58ii+ohZ8V0FCbrcjYrn02geLJT+6aMQJL0vNyn4M8JA/ne4CZv2B5BCSVBNn9OFbyPXoLAgHKsxaKqV7R2eLDFdKg3rT7tt8Oylw=",
+		"password": "\u0001'ZRù1Á¬7\u0005¸Ý'ÈËtG©\u001drCF°\u000fm"
+	},
+	{
+		"nombre": "Federick 1",
+		"apellido": "osandon",
+		"edad": 26,
+		"curso": "Backend",
+		"contra": "123",
+		"id": 2,
+		"salt": "6yov78wQyqfyIj6XEGm3KcsyQLY2PDm5LrRuMcB1cw4KtwBdAqK13TsD7SL1qyzD6eduShVLDqyRg7QlAgcKFlSgxvHPzzMP9c82gYd9LmP2bqghV2+MdGQrPC387YHQZ8gyI2SLvrEeaGmwhtVS3QH9O47r4RcukhhQ83wZb9k=",
+		"password": "¦õ«åý3Û©öúïÊ=Õ§ò°ýÛ(ÀêÌ0@"
+	},
+	{
+		"nombre": "Federick 1",
+		"apellido": "osandon",
+		"edad": 26,
+		"curso": "Backend",
+		"contra": "123",
+		"id": 3,
+		"salt": "JoCwEwo9OnIZVrtX6/lPmHILu+vwice9IwjMJ+oyBobIO7QI9B5LEmR6tgMCoUNSvEDqzrtZj0FcUqFlPZ8nJDdZ84dw9xEY8WB6aNJb20HbmUCaw/0WK+Hp4KSCXqJ4jQkx0iKO7aR8a78tHhYnsjLcL2vKL23aDzzSu4bYTTs=",
+		"password": "8\u0013_ÙmT¥ócôMª·±wýÜoXÁ¤\u0007Y{Ã´6Ð"
+	},
+	{
+		"nombre": "Federick 1",
+		"apellido": "osandon",
+		"edad": 26,
+		"curso": "Backend",
+		"contra": "123",
+		"id": 4,
+		"salt": "e/NIMEFfKvITmYk0KDOe3/hf260zOmYMGB5OPhghN4k+r0v5WbX9XObHpsBa2528XjVyw8i2820+CGIXtCP06CI5P1EP5b+6nWE0b7sArdyzMlmY2uPUoUPIpqyxgkbhKtIWalT/dCsEViTfjlELKt0v9XyS9fDKZHpn18T+Ta4=",
+		"password": "nÉ?.=i\n1`¸éý¶ÌµRâ¨r_Ò:jíc¦»E"
+	}
+]
